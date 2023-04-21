@@ -152,6 +152,9 @@
     <ClInclude Include="VladKuft.h" />
     <ClInclude Include="Volkov.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="123.jpg" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
