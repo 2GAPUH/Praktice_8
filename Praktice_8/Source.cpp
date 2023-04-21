@@ -38,10 +38,7 @@ int main(int argc, char* argv[])
 	SDL_KeyboardEvent keyBoardEvent;
 
 	printf_s("\
-1 - Block manipulation\n\
-2 - Whack a mole\n\
-3 - Rect slider\n\
-4 - Mouse murder\n");
+");
 
 	while (true)
 	{
